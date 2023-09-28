@@ -2,7 +2,7 @@
 
 backend:
   /flask
-  - python3 init.py \n
+  - python3 init.py
 frontend:
   /wss-react
   -npm install
