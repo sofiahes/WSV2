@@ -1,0 +1,22 @@
+:root {
+    --bgcolor-1: #282828;
+    --bgcolor-2: #323232;
+    --bgcolor-3: #474747;
+    --bgcolor-4: #626262;
+    --bgcolor-5: #7c7c7c;
+    --textcolor: #fff;
+    --font-size: 18px;
+    --color-warning: #a50000;
+}
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    background-color: var(--bgcolor-1);
+    color: var(--textcolor);
+    font-size: var(--font-size);
+}
+
